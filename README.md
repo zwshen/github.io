@@ -2,15 +2,22 @@ Will Shen
 ======
 
 #### Software Engineer
-###### [ [github](https://zwshen.github.io/) ] . [ zwhsen0603@gmail.com ]  . [LeetCode](https://leetcode.com/WillShen63/) ]
+###### [ [github](https://zwshen.github.io/) ] . [ [LeetCode](https://leetcode.com/WillShen63/) ] . [ zwshen603@gmail.com ]
 
 Experience
 ---------
-**Advanced Software Engineer, Garmin interntional** (2010-present, Taiwan)
-
+**Advanced Software Engineer, Garmin interntional** (2018-present, Taiwan)
 - Embedded system development for Wearable products
 - Touch firmware development
 - Agile Software Process
+
+**Technical Team Leader, Garmin interntional** (2014-2018, Taiwan)
+- 3D city map Reconstruction
+- 3D city map Navigation
+- 3D Rendering Engine on embedded device
+
+**Advanced Software Engineer, Garmin interntional** (2010-2014, Taiwan)
+- GIS software development
 
 Skills
 ------
@@ -22,7 +29,7 @@ Awards
 
 Projects
 --------
--
+- 
 
 Education
 ---------
